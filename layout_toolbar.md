@@ -2,9 +2,9 @@
 
 ![toolsbar](img/barre_strumenti/layout_toolbar1.png)
 
-* ![alt](img/icon/mActionFileSave.png) Salva progetto
+* ![alt](img/icon/mActionFileSave.png) Salva progetto `Ctrl+S`
 
-* ![alt](img/icon/mActionNewLayout.png) Nuovo modello di stampa
+* ![alt](img/icon/mActionNewLayout.png) Nuovo modello di stampa `Ctrl+N`
 
 * ![alt](/img/icon/mActionDuplicateLayout.png) Duplica il modello di stampa
 
@@ -16,7 +16,7 @@
 
 * ![alt](img/icon/mActionNewPage.png) Inserisce pagina
 
-* ![alt](img/icon/mActionFilePrint.png) Stampa layout
+* ![alt](img/icon/mActionFilePrint.png) Stampa layout `Ctrl+P`
 
 * ![alt](img/icon/mActionSaveMapAsImage.png) Esporta come immagine
 
