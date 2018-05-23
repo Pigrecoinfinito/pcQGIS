@@ -1,6 +1,6 @@
 ## Atlas tool bar
 
-![naviga](img/barre_strumenti\atlas_toolbar1.png)
+![naviga](img/barre_strumenti/atlas_toolbar1.png)
 
 * ![alt](img/icon/mIconAtlas.png) Anteprima atlante - attiva disattiva atlanta
 
@@ -12,7 +12,7 @@
 
 * ![alt](img/icon/mActionAtlasNext.png) Geometria successiva atlante
 
-* ![alt](img/icon/mActionAtlaslast.png) Ultima geometria dell'atlante
+* ![alt](img/icon/mActionAtlasLast.png) Ultima geometria dell'atlante
 
 * ![alt](img/icon/mActionFilePrint.png)  Stampa Atlante
 
