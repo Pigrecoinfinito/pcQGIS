@@ -1,6 +1,6 @@
 ## Layout toolbar
 
-![toolsbar](img/barre_strumenti\layout_toolbar1.png)
+![toolsbar](img/barre_strumenti/layout_toolbar1.png)
 
 * ![alt](img/icon/mActionFileSave.png) Salva progetto
 
