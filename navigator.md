@@ -2,9 +2,9 @@
 
 ![naviga](img/barre_strumenti/navigation_toolbar1.png)
 
-* ![alt](img/icon/mActionZoomIn.png) Duplica il modello di stampa
+* ![alt](img/icon/mActionZoomIn.png) Ingrandisci
 
-* ![alt](img/icon/mActionZoomout.png) Duplica il modello di stampa
+* ![alt](img/icon/mActionZoomout.png) Rimpicciolisci
 
 * ![alt](img/icon/mActionZoomActual.png) Zoom al 100%
 
