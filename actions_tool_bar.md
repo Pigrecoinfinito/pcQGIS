@@ -1,6 +1,6 @@
 ## Actions tool bar
 
-![naviga](img/barre_strumenti\actions_toolbar1.png)
+![naviga](img/barre_strumenti/actions_toolbar1.png)
 
 * ![alt](img/icon/mActionLockItems.svg)
 
