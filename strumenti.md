@@ -2,13 +2,13 @@
 
 ![strumenti](img/barre_strumenti/strumenti1.png)
 
-* ![alt](img/icon/mActionPan.png) Sposta (pan) layout
+* ![alt](img/icon/mActionPan.png) Sposta (pan) layout `P`
 
-* ![alt](img/icon/mActionZoomToArea.png) Zoom area rettangolare
+* ![alt](img/icon/mActionZoomToArea.png) Zoom area rettangolare `Z`
 
-* ![alt](img/icon/mActionSelect.png) Seleziona e spsta oggetto
+* ![alt](img/icon/mActionSelect.png) Seleziona e spsta oggetto `V`
 
-* ![alt](img/icon/mActionMoveItemContent.png) Sposta contenuto oggetto
+* ![alt](img/icon/mActionMoveItemContent.png) Sposta contenuto oggetto `C`
 
 * ![alt](img/icon/mActionNodeTool.png) Modifica nodi
 
