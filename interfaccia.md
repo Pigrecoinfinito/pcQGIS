@@ -36,7 +36,7 @@ Elementi dell'interfaccia:
 
 ![visualizza](img/pannelli/pannelli_menu1.png)
 
-#### Vista complessiva
+#### Vista complessiva Pannelli
 
 ![pannelli](img/pannelli/pannelli_all1.png)
 
