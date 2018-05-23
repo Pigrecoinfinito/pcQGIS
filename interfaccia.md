@@ -48,7 +48,7 @@ Elementi dell'interfaccia:
 
 NB: selezionare oggetto e poi tasto destro mouse per le proprietà:
 
-![page](img/pannelli\proprieta_oggetto_page.png)
+![page](img/pannelli/proprieta_oggetto_page.png)
 
 #### Atlante
 
@@ -60,4 +60,4 @@ NB: selezionare oggetto e poi tasto destro mouse per le proprietà:
 
 #### Undo History
 
-![undo](img\pannelli\undo_history1.png)
+![undo](img/pannelli/undo_history1.png)
