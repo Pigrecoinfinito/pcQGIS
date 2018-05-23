@@ -6,21 +6,21 @@ dopo `CTRL+P` l'interfaccia di presenta cosi:
 
 Elementi dell'interfaccia:
 
-![alt](img\interfaccia2.png)
+![alt](img/interfaccia2.png)
 
 ### Tools bar
 
 #### [Layout toolbar](layout_toolbar.md)
 
-![layout](img/barre_strumenti\layout_toolbar1.png)
+![layout](img\barre_strumenti\layout_toolbar1.png)
 
 #### [Strumenti](strumenti.md)
 
-![strumenti](img/barre_strumenti\strumenti1.png)
+![strumenti](img\barre_strumenti\strumenti1.png)
 
 #### [Navigator tool bar](navigator.md)
 
-![naviga](img/barre_strumenti\navigation_toolbar1.png)
+![naviga](img/barre_strumenti/navigation_toolbar1.png)
 
 #### [Actions tool bar](actions_tool_bar.md)
 
