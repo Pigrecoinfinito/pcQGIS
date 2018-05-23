@@ -1,6 +1,6 @@
 ## Strumenti
 
-![strumenti](img/barre_strumenti\strumenti1.png)
+![strumenti](img/barre_strumenti/strumenti1.png)
 
 * ![alt](img/icon/mActionPan.png) Sposta (pan) layout
 
