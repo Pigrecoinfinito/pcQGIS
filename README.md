@@ -6,6 +6,6 @@ Nyall ha realizzato una breve guida che trovate [qui](https://north-road.com/201
 
 In questo repository tenterò di spiegare, con esempi e tanti screenshot, tutte le potenzialità del compositore di stampe di QGIS 3.0, per le versioni precedenti 2.x trovete del materiale nel mio [blog](https://pigrecoinfinito.wordpress.com/)
 
-![alt](/img\menu_progetto1.png)
+![alt](/img/menu_progetto1.png)
 
 [Interfaccia](interfaccia.md)
