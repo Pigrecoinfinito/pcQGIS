@@ -12,11 +12,11 @@ Elementi dell'interfaccia:
 
 #### [Layout toolbar](layout_toolbar.md)
 
-![layout](img\barre_strumenti\layout_toolbar1.png)
+![layout](img/barre_strumenti/layout_toolbar1.png)
 
 #### [Strumenti](strumenti.md)
 
-![strumenti](img\barre_strumenti\strumenti1.png)
+![strumenti](img/barre_strumenti/strumenti1.png)
 
 #### [Navigator tool bar](navigator.md)
 
@@ -34,7 +34,7 @@ Elementi dell'interfaccia:
 
 #### Menu Visualizza
 
-![visualizza](img\pannelli\pannelli_menu1.png)
+![visualizza](img/pannelli/pannelli_menu1.png)
 
 #### Vista complessiva
 
