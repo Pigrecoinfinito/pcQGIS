@@ -4,7 +4,7 @@
 
 * ![alt](img/icon/mActionZoomIn.png) Ingrandisci
 
-* ![alt](img/icon/mActionZoomout.png) Rimpicciolisci
+* ![alt](img/icon/mActionZoomOut.png) Rimpicciolisci
 
 * ![alt](img/icon/mActionZoomActual.png) Zoom al 100%
 
