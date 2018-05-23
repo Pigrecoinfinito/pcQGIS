@@ -24,11 +24,11 @@ Elementi dell'interfaccia:
 
 #### [Actions tool bar](actions_tool_bar.md)
 
-![naviga](img/barre_strumenti\actions_toolbar1.png)
+![naviga](img/barre_strumenti/actions_toolbar1.png)
 
 #### [Atlas tool bar](atlas_tool_bar.md)
 
-![naviga](img/barre_strumenti\atlas_toolbar1.png)
+![naviga](img/barre_strumenti/atlas_toolbar1.png)
 
 ### Pannelli
 
@@ -56,7 +56,7 @@ NB: selezionare oggetto e poi tasto destro mouse per le proprietà:
 
 #### Guide
 
-![guide](img/pannelli\guide1.png)
+![guide](img/pannelli/guide1.png)
 
 #### Undo History
 
