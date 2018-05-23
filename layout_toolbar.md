@@ -6,13 +6,13 @@
 
 * ![alt](img/icon/mActionNewLayout.png) Nuovo modello di stampa
 
-* ![alt](img/icon/mActionDuplicatelayout.png) Duplica il modello di stampa
+* ![alt](/img/icon/mActionDuplicatelayout.png) Duplica il modello di stampa
 
 * ![alt](img/icon/mActionLayoutManager.png) Gestore del layout (apre una finestra per gestire i layout)
 
 * ![alt](img/icon/mActionFileOpen.png) Aggiunge oggetto da modello layout (file.QTP)
 
-* ![alt](img/icon/mActionFileSaveas.png) Salva come modello layout (file.QTP)
+* ![alt](/img/icon/mActionFileSaveas.png) Salva come modello layout (file.QTP)
 
 * ![alt](img/icon/mActionNewPage.png) Inserisce pagina
 
