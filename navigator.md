@@ -1,6 +1,6 @@
 ## Navigator tool bar
 
-![naviga](img/barre_strumenti\navigation_toolbar1.png)
+![naviga](img/barre_strumenti/navigation_toolbar1.png)
 
 * ![alt](img/icon/mActionZoomIn.png) Duplica il modello di stampa
 
